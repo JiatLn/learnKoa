@@ -1,0 +1,22 @@
+{
+  "name": "learnkoa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiatln",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.15",
+    "mysql2": "^2.1.0",
+    "require-directory": "^2.1.1",
+    "sequelize": "^5.21.3",
+    "validator": "^12.1.0"
+  }
+}
