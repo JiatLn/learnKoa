@@ -7,4 +7,8 @@ class PositiveIntegerValidator extends LinValidator {
   }
 }
 
+class RegisterValidator extends LinValidator {
+  constructor(params) {}
+}
+
 module.exports = { PositiveIntegerValidator };
